@@ -1,0 +1,24 @@
+
+de_vanguard
+v1.1
+Made on 1/19/2015
+
+Description
+-----
+Cafe first post and cafe vanguard are located in the same building in the historic part of the city. Terrorists have placed 2 bombs in the guise of suitcases.
+This was done while masquerading as pub hopping gentleman. The counter-terrorist got wind of this and came to disarm the bombs. This is the last try of the terrorists to blow up the whole place to kingdom come.
+
+Details
+-----
+32 players max
+~2600 max r_speeds
+2 bombspots
+
+Notes
+-----
+Sorry for the cheesy description.
+This map was made in one month. After the contest, all assets including the rmf will be released as a open source project.
+
+This is probably my last endeavor as a mapper. Please rate my map and tell me if I am missing something.
+
+-shash7
